@@ -1,6 +1,10 @@
 # dioproject
 
-A new Flutter project.
+Primeiro projeto Flutter incluindo e removendo no contador. 
+<div align="center">
+  <img src="./assets/img/arquivo.gif" alt="GIF do aplicativo">
+</div>
+
 
 ## Getting Started
 
